@@ -101,8 +101,12 @@
 } 
 
 */
-public class Learning {
+/*public class Learning {
     public static void main(String[] args) {
-    sy
+        // Example of assign operators
+        int savings = 100; 
+        savings += 50; // add 50 to savings
+        System.out.println("Total savings: " + savings);
     }
 }
+*/
